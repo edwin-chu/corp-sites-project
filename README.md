@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Corporate-Sites Project
+## Corporate-Sites Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Corporate-Sites Project*
 
 
 **Java 8**
